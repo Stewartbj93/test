@@ -1,3 +1,3 @@
 # test
 testing a git clone on a new machine
-Megan's branch, please merge
+This is a change
